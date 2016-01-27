@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 thsi is first
 thsi is first
 thsi is first
-=======
 welcome to the world
->>>>>>> master
