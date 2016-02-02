@@ -1,2 +1,1 @@
-This is on new branch
-enter the message
+This is an Empty Message
